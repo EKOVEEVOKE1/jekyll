@@ -1,4 +1,4 @@
----
++---
 title: Front Matter
 permalink: /docs/front-matter/
 redirect_from: /docs/frontmatter/index.html
